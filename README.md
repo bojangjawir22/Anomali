@@ -1,0 +1,2 @@
+# Anomali
+belajar anomali
